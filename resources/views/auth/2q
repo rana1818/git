@@ -1,0 +1,247 @@
+@extends('layouts.app')
+
+@section('content')
+<div class="container">
+    <div class="row">
+        <div class="col-md-8 col-md-offset-2">
+            <div class="panel panel-default">
+                <div class="panel-heading">Register</div>
+                <div class="panel-body">
+                    <form class="form-horizontal" role="form" method="POST" action="{{ url('/register') }}">
+                        {{ csrf_field() }}
+
+                                                        
+
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+table {
+border: 1px solid black;
+
+    border-collapse: collapse;
+    width: 100%;
+}
+
+td, th {
+
+border: 1px solid #dddddd;
+    
+    padding: 8px;
+   
+  
+ 
+}
+
+
+</style>
+</head>
+<body>
+<div class="table-responsive">
+<table class="table table-bordered table-striped table-hover" >
+ <tr>
+<th>players</th>
+
+    <th>Teeid</th>
+    <th>Courseid</th>
+   <th>score1</th>
+ <th>score2</th>
+ <th>score3</th>
+ <th>score4</th>
+ <th>score5</th>
+ <th>score6</th>
+ <th>score7</th>
+ <th>score8</th>
+ <th>score9</th>
+ <th>score10</th>
+ <th>score11</th>
+ <th>score12</th>
+ <th>score13</th>
+ <th>score14</th>
+ <th>score15</th>
+ <th>score16</th>
+ <th>score17</th>
+ <th>score18</th>
+
+
+
+
+
+
+  <tr>
+    <td></td>
+    <td></td>
+   <td></td>
+ <td></td>
+ <td></td>
+ <td></td>
+ <td></td>
+ <td></td>
+ <td></td>
+ <td></td>
+ <td></td>
+ <td></td>
+ <td></td>
+ <td></td>
+ <td></td>
+ <td></td>
+ <td></td>
+ <td></td>
+<td></td>
+ <td></td>
+ <td></td>
+  </tr>
+  <tr>
+   
+   <td></td>
+    <td></td>
+   <td></td>
+ <td></td>
+ <td></td>
+ <td></td>
+ <td></td>
+ <td></td>
+ <td></td>
+ <td></td>
+ <td></td>
+ <td></td>
+ <td></td>
+ <td></td>
+ <td></td>
+ <td></td>
+ <td></td>
+ <td></td>
+<td></td>
+ <td></td>
+ <td></td>
+
+
+
+
+
+
+
+
+
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+   <td></td>
+ <td></td>
+ <td></td>
+ <td></td>
+ <td></td>
+ <td></td>
+ <td></td>
+ <td></td>
+ <td></td>
+ <td></td>
+ <td></td>
+ <td></td>
+ <td></td>
+ <td></td>
+ <td></td>
+ <td></td>
+<td></td>
+ <td></td>
+ <td></td>
+
+  </tr>
+  <tr>
+   <td></td>
+    <td></td>
+   <td></td>
+ <td></td>
+ <td></td>
+ <td></td>
+ <td></td>
+ <td></td>
+ <td></td>
+ <td></td>
+ <td></td>
+ <td></td>
+ <td></td>
+ <td></td>
+ <td></td>
+ <td></td>
+ <td></td>
+ <td></td>
+<td></td>
+ <td></td>
+ <td></td>
+
+  </tr>
+  <tr>
+   <td></td>
+    <td></td>
+   <td></td>
+ <td></td>
+ <td></td>
+ <td></td>
+ <td></td>
+ <td></td>
+ <td></td>
+ <td></td>
+ <td></td>
+ <td></td>
+ <td></td>
+ <td></td>
+ <td></td>
+ <td></td>
+ <td></td>
+ <td></td>
+<td></td>
+ <td></td>
+ <td></td>
+
+  </tr>
+
+
+
+
+
+
+
+</table>
+</div>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		<div class="form-group">
+		    <div class="col-md-6 col-md-offset-4">
+			<button type="submit" class="btn btn-primary">
+			    <i class="fa fa-btn fa-user"></i> Register
+			</button>
+		    </div>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+@endsection
